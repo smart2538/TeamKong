@@ -1,5 +1,7 @@
 ##Visions
-- Target : Students
+
+> Target : Students
+
 - create a jeopardy-like game
 - 6 categories, each has 5 questions
 - each question has different price releated to the difficulty
