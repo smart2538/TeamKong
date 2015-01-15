@@ -14,3 +14,5 @@ After a question is displayed, a contestant presses a button to indicate he can 
 ##UC3 : Contestant choose Question to answer
 After contestant Enter the picking state, a bunch of questions available will be displayed on the screen, seperated by question categoties, and its point according to its difficulty. the contestant must select the question. and then move to the answer state.
 
+##UC4 : Create Question Pool
+gather all questions and answers, arrange and orgainize it into database.
