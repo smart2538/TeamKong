@@ -1,6 +1,6 @@
 ##Visions
 
-> Target : Students
+> Target : Students who interested in the topic that player or member create the topic
 
 ##What we gonna do?
 
