@@ -13,5 +13,7 @@
 - Login using user ID and password if online.
 - Host can keep tracks who press the button 1st, 2nd, 3rd,... according to the time pressed 
 - the score decreases if the answer is incorrect
-web application that enshow the jepody game. the first page consist the login zone that if the user have no ID have to register.
-then the next page is lobby page that you can create game by catagories that you interested or join it. and  then is the game room that have the chair to sit after the chair is full or the host is press start, the game will begin. then is the game zone that have the sign of the prize of the quesion seperate by title. each team choose the questions in each rounds. the questions 
+- Web application that show the jepody game. The first page consist the login zone if the user that have no ID have to register.
+- Lobby page that you can create the match by catagories that you interested or join it
+- Whe the game is full or the host is press start button, the game will begin.
+- The game zone that have the sign of the prize of the quesion seperate by title. each team choose the questions in each rounds.
