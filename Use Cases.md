@@ -1,8 +1,10 @@
-###User Stories
-*As a teacher, I want to
-*As a student, so that I get credit, I want to join a quiz game.
+User Stories
+============
+As a teacher, I want to
+As a student, so that I get credit, I want to join a quiz game.
 
-###Informal Use Case
+Informal Use Case
+===================
 ##UC1 : Join a Quiz
 Student enters the game ( or game site ) and identifies himself. Then he selects the game he wants to join. The game adds the user as a contestant
 
